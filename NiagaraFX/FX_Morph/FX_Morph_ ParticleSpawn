@@ -1,0 +1,976 @@
+Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardContent Name="NiagaraClipboardContent_4"
+   Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunction Name="NiagaraClipboardFunction_6"
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_1"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_0"
+      End Object
+   End Object
+   Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunction Name="NiagaraClipboardFunction_5"
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_0"
+      End Object
+   End Object
+   Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunction Name="NiagaraClipboardFunction_4"
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_0"
+      End Object
+   End Object
+   Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunction Name="NiagaraClipboardFunction_3"
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_0"
+      End Object
+   End Object
+   Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunction Name="NiagaraClipboardFunction_2"
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_16"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_15"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_14"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_13"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_12"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_11"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_10"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_9"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_8"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_7"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_6"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_5"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_4"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_3"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_2"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_1"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_0"
+      End Object
+   End Object
+   Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunction Name="NiagaraClipboardFunction_1"
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_33"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_32"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_31"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_30"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_29"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_28"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_27"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_26"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_25"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_24"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_23"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_22"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_21"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_20"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_19"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_18"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_17"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_16"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_15"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_14"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_13"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_12"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_11"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_10"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_9"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_8"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_7"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_6"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_5"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_4"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_3"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_2"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_1"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_0"
+      End Object
+   End Object
+   Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunction Name="NiagaraClipboardFunction_0"
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_20"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_19"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_18"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_17"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_16"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_15"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_14"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_13"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_12"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_11"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_10"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_9"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_8"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_7"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_6"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_5"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_4"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_3"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_2"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_1"
+      End Object
+      Begin Object Class=/Script/NiagaraEditor.NiagaraClipboardFunctionInput Name="NiagaraClipboardFunctionInput_0"
+      End Object
+   End Object
+   Begin Object Name="NiagaraClipboardFunction_6"
+      Begin Object Name="NiagaraClipboardFunctionInput_1"
+         InputName="UV"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/CoreUObject.Vector2f"',UnderlyingType=2)
+         ValueMode=Linked
+         Linked="Particles.SampleSkeletalMesh.SampledUV"
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_0"
+         InputName="Texture"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.Class'"/Script/Niagara.NiagaraDataInterfaceTexture"',UnderlyingType=1)
+         ValueMode=Linked
+         Linked="User.Texture"
+      End Object
+      FunctionName="SampleTexture"
+      Script="/Niagara/Modules/Update/Textures/SampleTexture.SampleTexture"
+      Inputs(0)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_0"'
+      Inputs(1)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_1"'
+      ScriptVersion=CA21C2074064B668616D5A86C7434926
+   End Object
+   Begin Object Name="NiagaraClipboardFunction_5"
+      Begin Object Name="NiagaraClipboardFunctionInput_0"
+         InputName="Particles.SpriteAlignment"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/CoreUObject.Vector3f"',UnderlyingType=2)
+         ValueMode=Linked
+         Linked="Output.SampleSkeletalMesh.SampledTangent"
+      End Object
+      FunctionName="SetVariables_3AD413C449895EB5759D889F5863480E"
+      ScriptMode=Assignment
+      AssignmentTargets(0)=(VarData=(0,0,128,63,0,0,0,0,0,0,0,0),Name="Particles.SpriteAlignment",TypeDefHandle=(RegisteredTypeIndex=81))
+      AssignmentDefaults(0)="1.0,0.0,0.0"
+      Inputs(0)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_0"'
+   End Object
+   Begin Object Name="NiagaraClipboardFunction_4"
+      Begin Object Name="NiagaraClipboardFunctionInput_0"
+         InputName="Particles.SpriteFacing"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/CoreUObject.Vector3f"',UnderlyingType=2)
+         ValueMode=Linked
+         Linked="Particles.SampleSkeletalMesh.SampledNormal"
+      End Object
+      FunctionName="SetVariables_32050F6945410BB9E7303C98554720C7"
+      ScriptMode=Assignment
+      AssignmentTargets(0)=(VarData=(0,0,128,63,0,0,0,0,0,0,0,0),Name="Particles.SpriteFacing",TypeDefHandle=(RegisteredTypeIndex=81))
+      AssignmentDefaults(0)="1.0,0.0,0.0"
+      Inputs(0)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_0"'
+   End Object
+   Begin Object Name="NiagaraClipboardFunction_3"
+      Begin Object Name="NiagaraClipboardFunctionInput_0"
+         InputName="Particles.Position"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/Niagara.NiagaraPosition"',UnderlyingType=2)
+         ValueMode=Linked
+         Linked="Particles.ShapeLocation.ShapePosition"
+      End Object
+      FunctionName="SetVariables_B017F91F4A4B46A05777D0A18DDF32FE"
+      ScriptMode=Assignment
+      AssignmentTargets(0)=(VarData=(0,0,0,0,0,0,0,0,0,0,0,0),Name="Particles.Position",TypeDefHandle=(RegisteredTypeIndex=84))
+      AssignmentDefaults(0)="Engine.Emitter.SimulationPosition"
+      Inputs(0)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_0"'
+   End Object
+   Begin Object Name="NiagaraClipboardFunction_2"
+      Begin Object Name="NiagaraClipboardFunctionInput_16"
+         InputName="Interpolate Mesh Sampling"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/Niagara.NiagaraBool"',UnderlyingType=2)
+         Local(0)=255
+         Local(1)=255
+         Local(2)=255
+         Local(3)=255
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_15"
+         InputName="Sampled Position Coordinate Space"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.Enum'"/Script/Niagara.ENiagaraCoordinateSpace"',UnderlyingType=3)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_14"
+         InputName="Sampled Orientation Coordinate Space"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.Enum'"/Script/Niagara.ENiagaraCoordinateSpace"',UnderlyingType=3)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_13"
+         InputName="Sampled Velocity Coordinate Space"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.Enum'"/Script/Niagara.ENiagaraCoordinateSpace"',UnderlyingType=3)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_12"
+         InputName="Sampled Orientation Additional Yaw / Pitch / Roll"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/CoreUObject.Vector3f"',UnderlyingType=2)
+         bHasEditCondition=True
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+         Local(4)=0
+         Local(5)=0
+         Local(6)=0
+         Local(7)=0
+         Local(8)=0
+         Local(9)=0
+         Local(10)=0
+         Local(11)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_11"
+         InputName="Offset Position Along Sampled Normal"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/Niagara.NiagaraFloat"',UnderlyingType=2)
+         bHasEditCondition=True
+         Local(0)=0
+         Local(1)=0
+         Local(2)=128
+         Local(3)=63
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_10"
+         InputName="Position Offset Coordinate Space"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.Enum'"/Script/Niagara.ENiagaraCoordinateSpace"',UnderlyingType=3)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_9"
+         InputName="Sampled Position Offset"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/CoreUObject.Vector3f"',UnderlyingType=2)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+         Local(4)=0
+         Local(5)=0
+         Local(6)=0
+         Local(7)=0
+         Local(8)=0
+         Local(9)=0
+         Local(10)=0
+         Local(11)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_8"
+         InputName="Random Seed"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/Niagara.NiagaraInt32"',UnderlyingType=2)
+         bHasEditCondition=True
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_7"
+         InputName="Sampled UV Index"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/Niagara.NiagaraInt32"',UnderlyingType=2)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_6"
+         InputName="Randomness Mode"
+         InputType=(ClassStructOrEnum=/Script/Engine.UserDefinedEnum'"/Niagara/Enums/ENiagaraRandomnessMode.ENiagaraRandomnessMode"',UnderlyingType=3)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_5"
+         InputName="Triangle Sampling Mode"
+         InputType=(ClassStructOrEnum=/Script/Engine.UserDefinedEnum'"/Niagara/Enums/ENiagaraTriangleSamplingMode.ENiagaraTriangleSamplingMode"',UnderlyingType=3)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_4"
+         InputName="Mesh Sampling Type"
+         InputType=(ClassStructOrEnum=/Script/Engine.UserDefinedEnum'"/Niagara/Enums/ENiagaraSkelSamplingModeFull.ENiagaraSkelSamplingModeFull"',UnderlyingType=3)
+         Local(0)=3
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_3"
+         InputName="Skeletal Mesh"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.Class'"/Script/Niagara.NiagaraDataInterfaceSkeletalMesh"',UnderlyingType=1)
+         ValueMode=Linked
+         Linked="User.SK"
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_2"
+         InputName="OverrideRandomSeed"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/Niagara.NiagaraBool"',UnderlyingType=2)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_1"
+         InputName="OffsetAlongNormal"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/Niagara.NiagaraBool"',UnderlyingType=2)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_0"
+         InputName="AdditionalYawPitchRoll"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/Niagara.NiagaraBool"',UnderlyingType=2)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      FunctionName="SampleSkeletalMesh"
+      Script="/Niagara/Modules/Update/MeshInterface/SampleSkeletalMesh.SampleSkeletalMesh"
+      Inputs(0)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_0"'
+      Inputs(1)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_1"'
+      Inputs(2)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_2"'
+      Inputs(3)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_3"'
+      Inputs(4)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_4"'
+      Inputs(5)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_5"'
+      Inputs(6)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_6"'
+      Inputs(7)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_7"'
+      Inputs(8)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_8"'
+      Inputs(9)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_9"'
+      Inputs(10)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_10"'
+      Inputs(11)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_11"'
+      Inputs(12)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_12"'
+      Inputs(13)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_13"'
+      Inputs(14)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_14"'
+      Inputs(15)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_15"'
+      Inputs(16)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_16"'
+      ScriptVersion=B94C0E6D48081AF8DCE0CD919A3582C4
+   End Object
+   Begin Object Name="NiagaraClipboardFunction_1"
+      Begin Object Name="NiagaraClipboardFunctionInput_33"
+         InputName="Offset Coordinate Space"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.Enum'"/Script/Niagara.ENiagaraCoordinateSpace"',UnderlyingType=3)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_32"
+         InputName="Offset"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/CoreUObject.Vector3f"',UnderlyingType=2)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+         Local(4)=0
+         Local(5)=0
+         Local(6)=0
+         Local(7)=0
+         Local(8)=0
+         Local(9)=0
+         Local(10)=72
+         Local(11)=66
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_31"
+         InputName="Shape Origin"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/Niagara.NiagaraPosition"',UnderlyingType=2)
+         ValueMode=Linked
+         Linked="StackContext.Position"
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_30"
+         InputName="Offset Mode"
+         InputType=(ClassStructOrEnum=/Script/Engine.UserDefinedEnum'"/Niagara/Enums/Transforms/ENiagara_OffsetMode.ENiagara_OffsetMode"',UnderlyingType=3)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_29"
+         InputName="Rotation Coordinate Space"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.Enum'"/Script/Niagara.ENiagaraCoordinateSpace"',UnderlyingType=3)
+         Local(0)=2
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_28"
+         InputName="Rotation Angle Type"
+         InputType=(ClassStructOrEnum=/Script/Engine.UserDefinedEnum'"/Niagara/Enums/Angles/ENiagara_AngleInput.ENiagara_AngleInput"',UnderlyingType=3)
+         Local(0)=1
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_27"
+         InputName="Additional Yaw / Pitch / Roll"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/CoreUObject.Vector3f"',UnderlyingType=2)
+         bHasEditCondition=True
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+         Local(4)=0
+         Local(5)=0
+         Local(6)=0
+         Local(7)=0
+         Local(8)=0
+         Local(9)=0
+         Local(10)=0
+         Local(11)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_26"
+         InputName="Rotation Angle"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/Niagara.NiagaraFloat"',UnderlyingType=2)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_25"
+         InputName="Invert Rotation Quaternion"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/Niagara.NiagaraBool"',UnderlyingType=2)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_24"
+         InputName="Yaw / Pitch / Roll"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/CoreUObject.Vector3f"',UnderlyingType=2)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+         Local(4)=0
+         Local(5)=0
+         Local(6)=0
+         Local(7)=0
+         Local(8)=0
+         Local(9)=0
+         Local(10)=0
+         Local(11)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_23"
+         InputName="Rotation Quaternion"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/CoreUObject.Quat4f"',UnderlyingType=2)
+         ValueMode=Linked
+         Linked="Engine.Owner.Rotation"
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_22"
+         InputName="Rotation Matrix"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/Niagara.NiagaraMatrix"',UnderlyingType=2)
+         ValueMode=Linked
+         Linked="Engine.Owner.SystemLocalToWorldNoScale"
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_21"
+         InputName="Rotation Axis"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/CoreUObject.Vector3f"',UnderlyingType=2)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=128
+         Local(3)=63
+         Local(4)=0
+         Local(5)=0
+         Local(6)=0
+         Local(7)=0
+         Local(8)=0
+         Local(9)=0
+         Local(10)=0
+         Local(11)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_20"
+         InputName="Rotation Mode"
+         InputType=(ClassStructOrEnum=/Script/Engine.UserDefinedEnum'"/Niagara/Enums/Transforms/ENiagara_RotationMode.ENiagara_RotationMode"',UnderlyingType=3)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_19"
+         InputName="Apply Owner Scale"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/CoreUObject.Vector3f"',UnderlyingType=2)
+         bHasEditCondition=True
+         bEditConditionValue=True
+         ValueMode=Linked
+         Linked="Engine.Owner.Scale"
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_18"
+         InputName="Non Uniform Scale"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/CoreUObject.Vector3f"',UnderlyingType=2)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=128
+         Local(3)=63
+         Local(4)=0
+         Local(5)=0
+         Local(6)=128
+         Local(7)=63
+         Local(8)=0
+         Local(9)=0
+         Local(10)=128
+         Local(11)=63
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_17"
+         InputName="Scale Mode"
+         InputType=(ClassStructOrEnum=/Script/Engine.UserDefinedEnum'"/Niagara/Enums/Transforms/ENiagara_ScaleMode.ENiagara_ScaleMode"',UnderlyingType=3)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_16"
+         InputName="Transform Order"
+         InputType=(ClassStructOrEnum=/Script/Engine.UserDefinedEnum'"/Niagara/Enums/Transforms/ENiagara_TransformOrder.ENiagara_TransformOrder"',UnderlyingType=3)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_15"
+         InputName="Transform Method"
+         InputType=(ClassStructOrEnum=/Script/Engine.UserDefinedEnum'"/Niagara/Enums/Transforms/ENiagara_TransformType.ENiagara_TransformType"',UnderlyingType=3)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_14"
+         InputName="Fixed Random Seed"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/Niagara.NiagaraBool"',UnderlyingType=2)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_13"
+         InputName="Override Seed"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/Niagara.NiagaraBool"',UnderlyingType=2)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_12"
+         InputName="Random Seed"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/Niagara.NiagaraInt32"',UnderlyingType=2)
+         bHasEditCondition=True
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_11"
+         InputName="Randomness Mode"
+         InputType=(ClassStructOrEnum=/Script/Engine.UserDefinedEnum'"/Niagara/Enums/ENiagaraRandomnessMode.ENiagaraRandomnessMode"',UnderlyingType=3)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_10"
+         InputName="Spawn Group Mask"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/Niagara.NiagaraInt32"',UnderlyingType=2)
+         bHasEditCondition=True
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_9"
+         InputName="Hemisphere Angle Type"
+         InputType=(ClassStructOrEnum=/Script/Engine.UserDefinedEnum'"/Niagara/Enums/Angles/ENiagara_AngleInput.ENiagara_AngleInput"',UnderlyingType=3)
+         Local(0)=1
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_8"
+         InputName="Hemisphere Distribution"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/CoreUObject.Vector2f"',UnderlyingType=2)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=128
+         Local(3)=63
+         Local(4)=0
+         Local(5)=0
+         Local(6)=128
+         Local(7)=63
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_7"
+         InputName="Sphere Surface Distribution"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/Niagara.NiagaraFloat"',UnderlyingType=2)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=128
+         Local(3)=63
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_6"
+         InputName="Sphere Distribution"
+         InputType=(ClassStructOrEnum=/Script/Engine.UserDefinedEnum'"/Niagara/Enums/ENiagaraSphereDistributionMode.ENiagaraSphereDistributionMode"',UnderlyingType=3)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_5"
+         InputName="Apply To Particle Position"
+         InputType=(ClassStructOrEnum=/Script/Engine.UserDefinedEnum'"/Niagara/Enums/ENiagara_AttributeSamplingApplyOutput.ENiagara_AttributeSamplingApplyOutput"',UnderlyingType=3)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_4"
+         InputName="Sphere Radius"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/Niagara.NiagaraFloat"',UnderlyingType=2)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=122
+         Local(3)=68
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_3"
+         InputName="Shape Primitive"
+         InputType=(ClassStructOrEnum=/Script/Engine.UserDefinedEnum'"/Niagara/Enums/Location/ENiagara_LocationShapes.ENiagara_LocationShapes"',UnderlyingType=3)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_2"
+         InputName="UseOwnerScale"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/Niagara.NiagaraBool"',UnderlyingType=2)
+         Local(0)=255
+         Local(1)=255
+         Local(2)=255
+         Local(3)=255
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_1"
+         InputName="MaskSpawnGroup"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/Niagara.NiagaraBool"',UnderlyingType=2)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_0"
+         InputName="Additional Quaternion Rotation"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/Niagara.NiagaraBool"',UnderlyingType=2)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      FunctionName="ShapeLocation"
+      Script="/Niagara/Modules/Spawn/Location/V2/ShapeLocation.ShapeLocation"
+      Inputs(0)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_0"'
+      Inputs(1)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_1"'
+      Inputs(2)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_2"'
+      Inputs(3)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_3"'
+      Inputs(4)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_4"'
+      Inputs(5)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_5"'
+      Inputs(6)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_6"'
+      Inputs(7)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_7"'
+      Inputs(8)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_8"'
+      Inputs(9)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_9"'
+      Inputs(10)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_10"'
+      Inputs(11)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_11"'
+      Inputs(12)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_12"'
+      Inputs(13)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_13"'
+      Inputs(14)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_14"'
+      Inputs(15)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_15"'
+      Inputs(16)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_16"'
+      Inputs(17)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_17"'
+      Inputs(18)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_18"'
+      Inputs(19)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_19"'
+      Inputs(20)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_20"'
+      Inputs(21)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_21"'
+      Inputs(22)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_22"'
+      Inputs(23)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_23"'
+      Inputs(24)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_24"'
+      Inputs(25)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_25"'
+      Inputs(26)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_26"'
+      Inputs(27)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_27"'
+      Inputs(28)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_28"'
+      Inputs(29)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_29"'
+      Inputs(30)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_30"'
+      Inputs(31)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_31"'
+      Inputs(32)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_32"'
+      Inputs(33)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_33"'
+      ScriptVersion=0040A4B841E5CEFBA015C5A07275C2DA
+   End Object
+   Begin Object Name="NiagaraClipboardFunction_0"
+      Begin Object Name="NiagaraClipboardFunctionInput_20"
+         InputName="Ribbon Twist Mode"
+         InputType=(ClassStructOrEnum=/Script/Engine.UserDefinedEnum'"/Niagara/Enums/Ribbons/ENiagara_UnsetDirectSet.ENiagara_UnsetDirectSet"',UnderlyingType=3)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_19"
+         InputName="Ribbon Facing Mode"
+         InputType=(ClassStructOrEnum=/Script/Engine.UserDefinedEnum'"/Niagara/Enums/Ribbons/ENiagara_UnsetDirectSet.ENiagara_UnsetDirectSet"',UnderlyingType=3)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_18"
+         InputName="Ribbon Width Mode"
+         InputType=(ClassStructOrEnum=/Script/Engine.UserDefinedEnum'"/Niagara/Enums/Ribbons/ENiagara_UnsetDirectSet.ENiagara_UnsetDirectSet"',UnderlyingType=3)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_17"
+         InputName="Mesh Renderer Array Visibility Mode"
+         InputType=(ClassStructOrEnum=/Script/Engine.UserDefinedEnum'"/Niagara/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.ENiagara_UnsetDirectSetRandom"',UnderlyingType=3)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_16"
+         InputName="Mesh Scale Mode"
+         InputType=(ClassStructOrEnum=/Script/Engine.UserDefinedEnum'"/Niagara/Enums/ENiagara_SizeScaleMode.ENiagara_SizeScaleMode"',UnderlyingType=3)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_15"
+         InputName="Sprite UV Mode"
+         InputType=(ClassStructOrEnum=/Script/Engine.UserDefinedEnum'"/Niagara/Enums/ENiagara_UVFlippingMode.ENiagara_UVFlippingMode"',UnderlyingType=3)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_14"
+         InputName="Sprite Rotation Mode"
+         InputType=(ClassStructOrEnum=/Script/Engine.UserDefinedEnum'"/Niagara/Enums/ENiagara_SpriteRotationMode.ENiagara_SpriteRotationMode"',UnderlyingType=3)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_13"
+         InputName="Sprite Size Randomness Mode"
+         InputType=(ClassStructOrEnum=/Script/Engine.UserDefinedEnum'"/Niagara/Enums/ENiagaraRandomnessMode.ENiagaraRandomnessMode"',UnderlyingType=3)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_12"
+         InputName="Uniform Sprite Size Max"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/Niagara.NiagaraFloat"',UnderlyingType=2)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=128
+         Local(3)=64
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_11"
+         InputName="Uniform Sprite Size Min"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/Niagara.NiagaraFloat"',UnderlyingType=2)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=63
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_10"
+         InputName="Sprite Size Mode"
+         InputType=(ClassStructOrEnum=/Script/Engine.UserDefinedEnum'"/Niagara/Enums/ENiagara_SizeScaleMode.ENiagara_SizeScaleMode"',UnderlyingType=3)
+         Local(0)=2
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_9"
+         InputName="Mass Mode"
+         InputType=(ClassStructOrEnum=/Script/Engine.UserDefinedEnum'"/Niagara/Enums/ENiagara_MassInitializationMode.ENiagara_MassInitializationMode"',UnderlyingType=3)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_8"
+         InputName="Position Offset Coordinate Space"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.Enum'"/Script/Niagara.ENiagaraCoordinateSpace"',UnderlyingType=3)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_7"
+         InputName="Position Offset"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/CoreUObject.Vector3f"',UnderlyingType=2)
+         bHasEditCondition=True
+         Local(0)=0
+         Local(1)=0
+         Local(2)=200
+         Local(3)=66
+         Local(4)=0
+         Local(5)=0
+         Local(6)=200
+         Local(7)=66
+         Local(8)=0
+         Local(9)=0
+         Local(10)=200
+         Local(11)=66
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_6"
+         InputName="Position Mode"
+         InputType=(ClassStructOrEnum=/Script/Engine.UserDefinedEnum'"/Niagara/Enums/ENiagara_PositionInitializationMode.ENiagara_PositionInitializationMode"',UnderlyingType=3)
+         Local(0)=2
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_5"
+         InputName="Color"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/CoreUObject.LinearColor"',UnderlyingType=2)
+         Local(0)=205
+         Local(1)=204
+         Local(2)=204
+         Local(3)=61
+         Local(4)=205
+         Local(5)=204
+         Local(6)=204
+         Local(7)=61
+         Local(8)=205
+         Local(9)=204
+         Local(10)=204
+         Local(11)=61
+         Local(12)=0
+         Local(13)=0
+         Local(14)=128
+         Local(15)=63
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_4"
+         InputName="Color Mode"
+         InputType=(ClassStructOrEnum=/Script/Engine.UserDefinedEnum'"/Niagara/Enums/ENiagara_ColorInitializationMode.ENiagara_ColorInitializationMode"',UnderlyingType=3)
+         Local(0)=1
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_3"
+         InputName="Lifetime"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/Niagara.NiagaraFloat"',UnderlyingType=2)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=240
+         Local(3)=65
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_2"
+         InputName="Lifetime Mode"
+         InputType=(ClassStructOrEnum=/Script/Engine.UserDefinedEnum'"/Niagara/Enums/ENiagara_LifetimeMode.ENiagara_LifetimeMode"',UnderlyingType=3)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_1"
+         InputName="Write Material Random"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/Niagara.NiagaraBool"',UnderlyingType=2)
+         Local(0)=255
+         Local(1)=255
+         Local(2)=255
+         Local(3)=255
+      End Object
+      Begin Object Name="NiagaraClipboardFunctionInput_0"
+         InputName="UsePositionOffset"
+         InputType=(ClassStructOrEnum=/Script/CoreUObject.ScriptStruct'"/Script/Niagara.NiagaraBool"',UnderlyingType=2)
+         Local(0)=0
+         Local(1)=0
+         Local(2)=0
+         Local(3)=0
+      End Object
+      FunctionName="InitializeParticle"
+      Script="/Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.InitializeParticle"
+      Inputs(0)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_0"'
+      Inputs(1)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_1"'
+      Inputs(2)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_2"'
+      Inputs(3)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_3"'
+      Inputs(4)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_4"'
+      Inputs(5)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_5"'
+      Inputs(6)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_6"'
+      Inputs(7)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_7"'
+      Inputs(8)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_8"'
+      Inputs(9)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_9"'
+      Inputs(10)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_10"'
+      Inputs(11)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_11"'
+      Inputs(12)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_12"'
+      Inputs(13)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_13"'
+      Inputs(14)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_14"'
+      Inputs(15)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_15"'
+      Inputs(16)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_16"'
+      Inputs(17)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_17"'
+      Inputs(18)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_18"'
+      Inputs(19)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_19"'
+      Inputs(20)=/Script/NiagaraEditor.NiagaraClipboardFunctionInput'"NiagaraClipboardFunctionInput_20"'
+   End Object
+   Functions(0)=/Script/NiagaraEditor.NiagaraClipboardFunction'"NiagaraClipboardFunction_0"'
+   Functions(1)=/Script/NiagaraEditor.NiagaraClipboardFunction'"NiagaraClipboardFunction_1"'
+   Functions(2)=/Script/NiagaraEditor.NiagaraClipboardFunction'"NiagaraClipboardFunction_2"'
+   Functions(3)=/Script/NiagaraEditor.NiagaraClipboardFunction'"NiagaraClipboardFunction_3"'
+   Functions(4)=/Script/NiagaraEditor.NiagaraClipboardFunction'"NiagaraClipboardFunction_4"'
+   Functions(5)=/Script/NiagaraEditor.NiagaraClipboardFunction'"NiagaraClipboardFunction_5"'
+   Functions(6)=/Script/NiagaraEditor.NiagaraClipboardFunction'"NiagaraClipboardFunction_6"'
+End Object
