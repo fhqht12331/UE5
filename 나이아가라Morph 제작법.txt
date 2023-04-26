@@ -1,0 +1,79 @@
+믹사모 애니메이션은 FBX-ASCII / without Skin 으로 받은 후 스켈레톤 메시 임포트 후 따라서 임포트
+
+모프 FX
+빈 나이아가라 생성
+-> 이미터 업데이트에 Spawn Rate 추가 
+-> 파티클 스폰에 Initaialize_MeshReproductionSprite_SK를 2개 추가 
+※ Initaialize_MeshReproductionSprite_SK는 기본적으로는 없으므로 Initaialize_MeshReproductionSprite 폴더에 들어가서 복사 후 이름 변경 해야함
+-> Initaialize_MeshReproductionSprite_SK의 블루프린트에서 맵 설정 노드의 Position 모디파이어를 모듈로 변경 후 컴파일 뒤 창 닫아야 적용됨
+※ 모디파이어를 모듈로 변경하면 나이아가라에서 파티클 어트리뷰트에서 사용 가능
+-> 파티클 업데이트에 파티클 어트리뷰트의 Position을 드래그 앤 드랍
+-> 포지션을 Lerp Position(UE5/ Lerp Vector(UE4))으로 변경
+-> Lerp Position의 A와 B에 각각 Initaialize_MeshReproductionSprite_SK의 Position을 드래그 앤 드랍
+※ A -> B로 파티클이 이동하게 함
+-> Lerp Position의 Alpha에 Float From Curve 추가 후 커브를 우상향으로 변경
+-> 사용자 노출값에 스켈레탈 메시 2개 추가
+-> 각 Initaialize_MeshReproductionSprite_SK에 방금 추가한 사용자 노출값을 각각 Mesh에 드래그 앤 드랍
+-> 레벨에 캐릭터와 나이아가라를 놓은 뒤 디테일 탭의 SK(사용자 노출값 설정)을 각각 선택
+-> 파티클 업데이트에 Curl Noise Force를 추가하고 Strength 10000, Frequency 10, Pan Noise Field의 Z를 0.1로 설정
+-> Pan Noise Field의 Z가 0.1이면 옮겨가는 대상으로의 파티클이 대상보다 멀리 가게됨
+-> Pan Noise Field의 Z를 -0.1로 설정하여 조정
+
+모프 텍스쳐 만들기
+-> 컨텐츠 브라우저에 머티리얼 파라미터 컬렉션(MPC_Morph) 생성
+-> 스칼라 파라미터 2개 추가(Amount1, Amount2)
+-> 컨텐츠 브라우저에 머티리얼(M_Character1) 생성 후 첫번째 캐릭터의 노말맵과 디퓨즈맵 드래그 앤 드랍
+-> 노말맵-Normal, 디퓨즈맵-베이스컬러 연결
+-> 우클릭 후 ValueStep 추가
+-> T_perlin_Noise_M 추가
+-> CollectionParameter 추가 후 MPC_Morph-Amount1으로 설정
+-> MPC_Morph-Amount1을 ValueStep의 Mask Offset Value에 연결
+-> T_perlin_Noise_M의 R핀을 ValueStep의 Gradient에 연결
+
+파티클 효과를 위한 머티리얼 생성
+-> Add(0.05)노드 추가 후 MPC_Morph-Amount1와 연결하고 Add(0.05)를 ValueStep를 추가로 생성하여 Mask Offset Value에 연결
+-> T_perlin_Noise_M의 R핀을 추가 ValueStep의 Gradient에 연결
+-> ValueStep(0.05)와 ValueStep을 Subtract를 생성하여 Subtract의 각각 A, B핀에 순서대로 연결
+-> Multiply을 추가하여 Subtract를 Multiply B에 연결하고 3벡터(100,0,0)를 생성하여 Multiply A에 연결
+-> Multiply를 이미시브 컬러에 연결 
+-> 블렌드 모드를 Masked로 변경하고 ValueStep(0.05)를 오파시티 마스크에 연결
+-> 두번째 캐릭터의 머티리얼(M_Character2)도 동일하게 진행하되 MPC_Morph-Amount1을 Amount2로 변경
+
+M_Morph 
+-> M_Character1에서 복사하여 M_Morph 머티리얼을 생성하고 M_Character2의 노말맵과 디퓨즈맵을 추가
+-> 노말맵과 디퓨즈맵끼리 각각 Lerp에 캐릭터1-A, 캐릭터2-B로 연결
+-> Dynamic Parameter 생성 후 Param1을 Lerp로 변경하고 각 Lerp의 Alpha와 연결
+-> 노말맵 Lerp-Normal, 디퓨즈맵 Lerp-베이스컬러에 연결
+-> Niagara_MeshReproductionSpriteUVs 생성
+-> Niagara_MeshReproductionSpriteUVs의 Particle Mesh UVs핀은 디퓨즈맵들의 UVs핀에 연결
+-> Niagara_MeshReproductionSpriteUVs의 Modulate Mesh Normals핀-Multipy(생성 후 A핀), 노말맵-Multiply(B핀) 노말맵 각각 Multiply하여 노말맵 Lerp에 연결
+-> FX_Morph 스프라이트 렌더러 머티리얼에 M_Morph 드래그 앤 드랍
+-> 효과를 줄 캐릭터의 머티리얼을 각각 M_Character1,2로 변경
+-> MPC_Morph Amount1,2의 값을 1로 변경
+
+BP_Morph
+-> 액터 블루프린트(BP_Morph) 생성
+-> Niagara Particle System 컴포넌트 추가
+-> Niagara Particle System 컴포넌트의 나이아가라 시스템 에셋을 FX_Morph로 변경
+-> 이벤트그래프에서 타임라인을 추가하여 BeginPlay 이벤트를 Play from Start에 연결
+-> 타임라인에 Float트랙을 추가하고 (시간,값)키를 (0,1), (10,0)로 2개 추가(트랙 길이는 10)
+-> 이벤트 그래프에서 트랙핀의 Set Scalar Parameter Value를 추가하여 Collection-MPC_Morph, Parameter Name-Amount1 설정
+-> 타임라인과 Set Scalar Parameter Value를 복사하여 트랙의 키 값을 (0,0), (10,1), Parameter Name-Amount2로 변경
+-> 두 타임라인을 연결하기 위해 시퀀스 노드를 생성하여 BeginPlay 이벤트와 타임라인들 사이에 연결
+
+조정
+-> FX_Morph의 파티클 업데이트에서 Dynamic Material Parameters 추가 후 Parameter1에 Float from Curve를 설정하고 커브를 우상향으로 설정
+-> M_Morph의 Niagara_MeshReproductionSpriteUVs의 Particle Mesh UVs핀을 T_perlin_Noise_M의 UVs핀에 연결
+-> 모프 대상의 애니메이션의 길이와 맞추기 위해 BP_Morph의 이벤트그래프에서 Delay(4sec)-Set Active(나이아가라 컴포넌트)를 BeginPlay 이벤트와 시퀀스 사이에 연결
+-> BP_Morph의 클래스 세팅에서 구현된 인터페이스의 나이아가라 파티클 콜백 핸들러 추가
+-> FX_Morph의 사용자 노출값에 오브젝트 추가하여 CallBack으로 이름 변경
+-> 파티클 업데이트에 Export Paticle Data to Blueprint 추가
+-> Export Paticle Data to Blueprint의 Condition to Export Data 체크하고 Vector to Send(As Struct Velocity)에 Initaialize_MeshReproductionSprite_SK001 Position(캐릭터2)를 드래그 앤 드랍 후 콜백 핸들러 파라미터를 CallBack으로 설정
+-> BP_Morph의 이벤트그래프에서 인터페이스-Receive Particle Data의 이벤트 실행으로 블루프린트에 생성
+-> 나이아가라 컴포넌트로부터 Set Niagara varable(Object) 노드를 추가하여 In Variable Name-CallBack, Object핀을 끌어 Self 레퍼런스 추가
+-> Receive Particle Data 이벤트의 Data 핀에서 Get(참조) 연결
+-> Get(참조)의 핀에서 Basic Particle Data 분해 연결하고 해당 노드의 Velocity에서 Position을 -해준 후 Vector Length와 연결
+-> Print String으로 값을 확인하고 Branch를 연결(Vector Length <= 30)
+-> 시퀀스를 삭제하고 Branch의 True를 Do Once를 생성하여 실행핀에 연결하고 두번째 타임라인을 Do Once 뒤로 연결
+-> MPC_Morph의 Amount2를 0으로 변경
+-> Vector Length <= 80으로 변경
