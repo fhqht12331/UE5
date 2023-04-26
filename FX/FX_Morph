@@ -1,8 +1,0 @@
-Begin Object Class=/Script/NiagaraEditor.NiagaraOverviewNode Name="NiagaraOverviewNode_2"
-   OwningSystem=/Script/Niagara.NiagaraSystem'"/Game/MyContents/FX/Morph/FX_Morph_4.FX_Morph_4"'
-   EmitterHandleGuid=1FAD13204A86C2D2D83E5DBFE4DF7636
-   NodePosX=250
-   NodePosY=256
-   bUserSetEnabledState=True
-   NodeGuid=1F9C951B490223A108F478BFAE2D3E06
-End Object
