@@ -34,4 +34,8 @@ FX_Morph with UE5 Niagara
   Kill 스크래치 패드 모듈의 조건 Output을 Kill Particle에 지정하여 설정
   
   머티리얼 노드, 블루프린트와 나이아가라 파티클을 통신하기 위해 Dynamin Material Parameter - Param 1 - Float from curve[(0,0) -> (1,1)] / Export Particle Data to Blueprint 추가함
+  
+---------------------------------------------------------------------------------------------------
+
+
 
